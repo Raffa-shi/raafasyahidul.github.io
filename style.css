@@ -1,0 +1,16 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: rgb(183, 255, 183);
+}
+
+.rounded-circle {
+  background-color: green;
+}
+
+#projects {
+  background-color: rgb(183, 255, 183);
+}
+
+.section {
+  padding-top: 5rem;
+}
